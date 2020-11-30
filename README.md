@@ -17,8 +17,6 @@ The contents of this kernel is divided into various topics which are as follows:
 •	Logistic Regression with PCA
 •	Select right number of dimensions
 •	Plot explained variance ratio with number of dimensions
-•	Conclusion
-•	References
 
 
 
