@@ -3,8 +3,13 @@ Adult census Income
 Problem Statement : Predict whether income exceeds $50k/yr based on census data
 Dataset is used from kaggle.com
 Coding is Done using Python Language in Jupyter notebook
+
+
+
+video of demo link :https://drive.google.com/drive/folders/10qoE29OR0DKqnVVlEZyuTM7X4_qIbdWy
+
+
 Table of Contents
-The contents of this kernel is divided into various topics which are as follows:-
 •	The Curse of Dimensionality
 •	Introduction to Principal Component Analysis
 •	Import Python libraries
